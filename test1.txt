@@ -1,1 +1,3 @@
 first day development-  login page
+
+secon day- homepage design
